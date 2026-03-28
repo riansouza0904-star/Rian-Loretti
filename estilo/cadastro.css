@@ -1,0 +1,39 @@
+/* FUNDO DA PÁGINA */
+body {
+    background-color: lightgray; /* cor do fundo */
+    font-family: Arial; /* tipo da letra */
+}
+
+/* TÍTULO PRINCIPAL */
+h1 {
+    text-align: center; /* centraliza */
+}
+
+/* FORMULÁRIO (caixa branca) */
+form {
+    background-color: white; /* fundo branco */
+    padding: 10px; /* espaço interno */
+    width: 300px; /* largura */
+    border: radius 6px;
+}
+
+/* ESPAÇO ENTRE OS CAMPOS */
+.bloco {
+    margin-bottom: 10px; /* espaço entre os inputs */
+}
+
+/* CAMPOS DE TEXTO */
+input {
+    width: 100%; /* ocupa toda a largura */
+}
+
+/* BOTÕES */
+button {
+    margin-top: 5px; /* espaço em cima */
+}
+
+/* TABELA */
+table {
+    width: 100%;
+    background-color: white;
+}
